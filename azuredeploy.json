@@ -70,7 +70,7 @@
     },
     "appGitRepository": {
       "type": "string",
-      "defaultValue": "https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore.git",
+      "defaultValue": "https://github.com/mihailmateev/Vector-Search-AI-Assistant-MongoDBvCore.git",
       "metadata": {
         "description": "Git repository URL for the application source. This defaults to the [`Azure/Vector-Search-Ai-Assistant`](https://github.com/Azure/Vector-Search-AI-Assistant-MongoDBvCore.git) repository."
       }
